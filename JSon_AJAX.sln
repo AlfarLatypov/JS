@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JSon_AJAX", "JSon_AJAX\", "{987A5CD4-56F6-4E9A-B1F2-6C185A973450}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51334"
+		Debug.AspNetCompiler.PhysicalPath = "JSon_AJAX\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51334\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51334"
+		Release.AspNetCompiler.PhysicalPath = "JSon_AJAX\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51334\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51334"
+		SlnRelativePath = "JSon_AJAX\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987A5CD4-56F6-4E9A-B1F2-6C185A973450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987A5CD4-56F6-4E9A-B1F2-6C185A973450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C66610E1-E51B-4824-8ED6-7E41080BE2A3}
+	EndGlobalSection
+EndGlobal
